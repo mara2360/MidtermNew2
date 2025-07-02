@@ -1,6 +1,6 @@
 public class PrimeNumberChecker {
     public static void main(String[] args) {
-        int number = 200; // Hardcoded input number
+        int number = 300; // Hardcoded input number
 
         boolean isPrime = true;
 
